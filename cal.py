@@ -3,9 +3,9 @@ def add(x,y):
 def subtract(x,y):
     pass
 def multiply(x,y):
-    return x*y
+    pass
 def divide(x,y):
-    pass	
+    pass
 def square(x,y):
     pass
 
